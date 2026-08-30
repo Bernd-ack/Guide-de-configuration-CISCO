@@ -20,6 +20,8 @@ Ce dépôt réunit deux guides d'administration et de configuration pour les éq
    - Sécurité des ports (*Port Security*)
    - Agrégation de liens (*EtherChannel LACP*)
 
+📥 Télécharger le format PDF (Mise en page officielle)(./
 ---
+
 **Auteur :** ESSOUN OLABODE BERNARD  
 **Certification / Domaines :** Réseaux & Télécoms | Cisco CCNA
