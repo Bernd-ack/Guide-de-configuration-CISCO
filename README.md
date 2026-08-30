@@ -12,7 +12,7 @@ Ce dépôt réunit deux guides d'administration et de configuration pour les éq
    - Routage Inter-VLAN (*Router-on-a-Stick* via 802.1Q)
    - Service DHCP IPv4 et Routage statique / par défaut
 
-2. **[Guide Configuration Switch Cisco (PDF)](./docs/Configuration_Switch_Cisco.pdf)**
+2. **[Guide Configuration Switch Cisco (PDF)](./Configuration_Switch_Cisco.pdf)**
    - Initialisation et sécurisation
    - Segmentation VLAN & attribution des ports d'accès
    - Liaisons Trunking (802.1Q & VLAN natif)
