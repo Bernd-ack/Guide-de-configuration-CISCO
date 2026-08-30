@@ -19,6 +19,12 @@ Ce dépôt réunit deux guides d'administration et de configuration pour les éq
    - Sécurité des ports (*Port Security*)
    - Agrégation de liens (*EtherChannel LACP*)
 
+## 📥 Télécharger les documents PDF
+
+Cliquez sur les liens ci-dessous pour télécharger directement les documents :
+
+* 📄 **[Télécharger le Guide Routeur Cisco (PDF)](./Configuration_Routeur_Cisco.pdf)**
+* 📄 **[Télécharger le Guide Switch Cisco (PDF)](./Configuration_Switch_Cisco.pdf)**
 ---
 **Auteur :** ESSOUN OLABODE BERNARD  
 **Certification / Domaines :** Réseaux & Télécoms | Cisco CCNA
