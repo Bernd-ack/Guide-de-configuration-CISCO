@@ -1,4 +1,4 @@
-# Guide-de-configuration-Routeur-CISCO
+# Guide-de-configuration-CISCO
 # 🛠️ Guides de Configuration Cisco IOS (Routeur & Switch)
 
 Ce dépôt réunit deux guides d'administration et de configuration pour les équipements réseau Cisco (Routeurs ISR/Catalyst et Commutateurs L2/L3).
