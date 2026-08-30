@@ -5,7 +5,7 @@ Ce dépôt réunit deux guides d'administration et de configuration pour les éq
 
 ## 📄 Documents inclus
 
-1. **[Guide Configuration Routeur Cisco (PDF)](./docs/Configuration_Routeur_Cisco.pdf)**
+1. **[Guide Configuration Routeur Cisco (PDF)](./Configuration_Routeur_Cisco.pdf)**
    - Initialisation et sécurisation (Enable Secret, Console, Banner)
    - Accès distant sécurisé (SSH v2, VTY)
    - Configuration des interfaces LAN/WAN
